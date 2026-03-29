@@ -11,5 +11,5 @@ After that I sorted by the top 5 hits and home runs in each ballpark. I then cre
 which was lead by Dodger Stadium (surprise, surprise) and then the same with batting average which was lead by Coors Field. Considering
 factors like field size and elevation this is not very surprising.
 
-Finally, I wanted to
-
+Finally, I wanted to look at how these numbers for the top 5 stadiums progressed throughout the season. I grouped by home team and game date. Then cumulated home runs and Runs over the season
+and wanted visualized how these numbers increased over the season. 
